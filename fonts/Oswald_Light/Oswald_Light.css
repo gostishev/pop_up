@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Oswald_Light';
+    src: url('subset-Oswald-Light.eot');
+    src: url('subset-Oswald-Light.eot?#iefix') format('embedded-opentype'),
+        url('subset-Oswald-Light.woff2') format('woff2'),
+        url('subset-Oswald-Light.woff') format('woff'),
+        url('subset-Oswald-Light.ttf') format('truetype'),
+        url('subset-Oswald-Light.svg#Oswald-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
